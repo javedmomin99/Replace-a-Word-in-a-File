@@ -1,5 +1,3 @@
-#
-
 f = open("this.txt","r")
 data = f.read()
 content = data.replace("Donkey","#####@@@")
